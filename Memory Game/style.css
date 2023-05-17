@@ -1,0 +1,30 @@
+#game div {
+  border: 1px solid black;
+  width: 15%;
+  height: 200px;
+  margin: 10px;
+  display: inline-block;
+  white-space: pre-line
+}
+#score div {
+  padding: 15px;
+  text-align: center;
+  margin: auto;
+  display: block;
+  
+  width:fit-content;
+  background: #1abc9c;
+  color: white;
+  font-size: 30px;
+  white-space: pre-line
+}
+body {
+  text-align: center;
+}
+
+#startGame button {
+  text-align: center;
+  font-size: 30px;
+  margin: 10px;
+  white-space: pre
+}
